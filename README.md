@@ -1,6 +1,6 @@
 # GT-RevertRebrand
 
-Reverts Discord's 2021 rebrand (font, colors, reactions, mentions, loading screen, home icon, reply ping color, and more)
+Reverts Discord's 2021 rebrand (font, colors, reactions, mentions, loading screen, home icon, reply ping color, and more). Now, hopefully soon, with fixed classes so Discord stops breaking it.
 
 <details>
 <summary><strong>Screenshots</strong></summary>
